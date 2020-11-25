@@ -1,38 +1,46 @@
-# 100 Days Of Code - Log
+# MY WORK
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
+## The initial 5 days logs are written after tweeting 100daysofcode challenge on 25 Novevmber, 2020 
 
 ### Day 0: November 20, 2020
 
-**Today's Progress:**  Tried making a google home page using html5 and css3. Adjusted the google logo at the center of the screen
+**Today's Progress:**  Started odin project 2 days, was experimenting with git and github
 
 **Thoughts:** That was my first commit to the 'theodinproject'
+
+### Day 1: November 21, 2020
+
+**Today's Progress:**  Tried basic html and css commands
+and was ready to make first html project
+
+**Thoughts:** Bit hesitated to do the challenge
+
+
+### Day 2: November 22, 2020
+
+**Today's Progress:**  Made a first google webpage, tried using header and anchor elements, img, css selectors
+
+**Thoughts:** The output was so ugly gave up for the day
+
+### Day 3: November 23, 2020
+
+**Today's Progress:** Removed previous day code and had to built again from ground up. Successfully made the google logo at the center of the screen
+
+**Thoughts:** Learned from previous mistake to slow down and search the internet for code snippets and understanding them carefully. That was the best thing I did for the day as I was able to understand the css a bit clearly.
+
+### Day 4: November 24, 2020
+
+**Today's Progress:** Successfully made the google search bar, added inbuilt search image and made the google header, footer and deployed to the github pages
+
+**Thoughts:** Understand the CSS classes clearly and also give the hover style to the submit buttons and also built the footer for the google webpage. The result was great casue this was my first webpage. YAY!
+
+**Deployed website** [https://srujaan.github.io/google-homepage/]
+
+### Day 5: November 25, 2020
+
+**Today's Progress:** Started - JAVASCRIPT, the most hated programming language, but loving it! :)
+
+**Thoughts:** Worked with strings, string methods, the conditional loops, the logical operators - need a bit of revision for the mutli logical operators
+
+
 
