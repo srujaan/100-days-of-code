@@ -28,3 +28,11 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 0: November 20, 2020
+
+**Today's Progress:**  Tried making a google home page using html5 and css3. Adjusted the google logo at the center of the screen
+
+**Thoughts:** That was my first commit to the 'theodinproject'
+
