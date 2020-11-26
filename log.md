@@ -43,4 +43,8 @@ and was ready to make first html project
 **Thoughts:** Worked with strings, string methods, the conditional loops, the logical operators - need a bit of revision for the mutli logical operators
 
 
+### Day 6: November 26, 2020
 
+**Today's Progress:** Revisied previous topics about logical operator and conditional statement.
+
+**Thoughts:** Revising helped to get more insights about JS logical operators and understood js conditional statements. JS logical opearators are tricky and good to get grip about them can be helpful in long term.
