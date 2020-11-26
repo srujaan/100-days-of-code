@@ -47,4 +47,4 @@ and was ready to make first html project
 
 **Today's Progress:** Revisied previous topics about logical operator and conditional statement.
 
-**Thoughts:** Revising helped to get more insights about JS logical operators and understood js conditional statements. JS logical opearators are tricky and good to get grip about them can be helpful in long term.
+**Thoughts:** Revising helped to get more insights about JS logical operators and understood js conditional statements. JS logical opearators are tricky and good to get grip about them can be helpful in long term
