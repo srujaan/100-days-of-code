@@ -48,3 +48,10 @@ and was ready to make first html project
 **Today's Progress:** Revisied previous topics about logical operator and conditional statement.
 
 **Thoughts:** Revising helped to get more insights about JS logical operators and understood js conditional statements. JS logical opearators are tricky and good to get grip about them can be helpful in long term
+
+
+### Day 7: November 27, 2020
+
+**Today's Progress:** All day Chrome dev tools and its uses.
+
+**Thoughts:** Done all the chrome dev tools interactive tutorials for js, html and css and its better to focus on these tools to help debug the code easily than typing console.log() statements and it is a tedious process.
