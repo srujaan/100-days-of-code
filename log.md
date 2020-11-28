@@ -55,3 +55,9 @@ and was ready to make first html project
 **Today's Progress:** All day Chrome dev tools and its uses.
 
 **Thoughts:** Done all the chrome dev tools interactive tutorials for js, html and css and its better to focus on these tools to help debug the code easily than typing console.log() statements and it is a tedious process.
+
+### Day 8: November 28, 2020
+
+**Today's Progress:** Functions! Everywhere and got to know about canvas element.
+
+**Thoughts:** Completed two exercises in MDN javascript docs. It's better to practice function more often.
