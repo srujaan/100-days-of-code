@@ -64,6 +64,6 @@ and was ready to make first html project
 
 ### Day 9: November 29, 2020
 
-**Today's Progress:** Functions! More functions.
+**Today's Progress:** Functions! More functions and watched a video about how to program for begineer.
 
 **Thoughts:** Done with functions may be need to download and practise different types of functions.
