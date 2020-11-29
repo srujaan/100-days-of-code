@@ -61,3 +61,9 @@ and was ready to make first html project
 **Today's Progress:** Functions! Everywhere and got to know about canvas element.
 
 **Thoughts:** Completed two exercises in MDN javascript docs. It's better to practice function more often.
+
+### Day 9: November 29, 2020
+
+**Today's Progress:** Functions! More functions.
+
+**Thoughts:** Done with functions may be need to download and practise different types of functions.
