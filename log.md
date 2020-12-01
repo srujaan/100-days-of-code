@@ -67,3 +67,18 @@ and was ready to make first html project
 **Today's Progress:** Functions! More functions and watched a video about how to program for begineer.
 
 **Thoughts:** Done with functions may be need to download and practise different types of functions.
+
+### Day 10: November 30, 2020
+
+**Today's Progress:** Functions! and started watching MIT OCW 6.00 course.
+
+**Thoughts:** Practised functions.
+
+### Day 11: December 1, 2020
+
+**Today's Progress:** Made a Rock-Paper-Scissors game using javascript.
+
+**Thoughts:** Used for loop and if conditions to create game in console.
+
+**Repl link** [https://repl.it/@srujaan/PalegreenCarpalRelationalmodel#script.js]
+**GitHub link** [https://github.com/srujaan/rock-paper-scissors]
