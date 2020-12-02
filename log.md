@@ -82,3 +82,9 @@ and was ready to make first html project
 
 **Repl link** [https://repl.it/@srujaan/PalegreenCarpalRelationalmodel#script.js]
 **GitHub link** [https://github.com/srujaan/rock-paper-scissors]
+
+### Day 12: December 2, 2020
+
+**Today's Progress:** Loops using js.
+
+**Thoughts:** Practised "for loops" in javascript and need to revise it more as it is often used and important.
