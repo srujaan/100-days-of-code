@@ -88,3 +88,9 @@ and was ready to make first html project
 **Today's Progress:** Loops using js.
 
 **Thoughts:** Practised "for loops" in javascript and need to revise it more as it is often used and important.
+
+### Day 13: December 3, 2020
+
+**Today's Progress:** Repeated function topic and solved some MDN examples.
+
+**Thoughts:** Got to know about jasmine a unit-test case tool for testing js and also installed node js in linux mint and solved the TOP javascript-exercises using jasmine tool.
