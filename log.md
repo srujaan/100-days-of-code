@@ -94,3 +94,9 @@ and was ready to make first html project
 **Today's Progress:** Repeated function topic and solved some MDN examples.
 
 **Thoughts:** Got to know about jasmine a unit-test case tool for testing js and also installed node js in linux mint and solved the TOP javascript-exercises using jasmine tool.
+
+### Day 14: December 4, 2020
+
+**Today's Progress:** Completed 4 Javascript exercises in TOP fundamentals 4.
+
+**Thoughts:** Really struggled through the spread operator need more careful on return statements.
